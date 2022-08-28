@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Olá"
-  default-value: "Lairton"
+  default-value: "Mundo"
